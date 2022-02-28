@@ -27,5 +27,5 @@ email : fernandoyoseph6@gmail.com
 password : 12345
 ```
 
-![Sign in](https://github.com/yosephfernando/mockaplication/blob/main/screenshots/signin.PNG?raw=true)
-![Sign up](https://github.com/yosephfernando/mockaplication/blob/main/screenshots/signup.PNG?raw=true)
+![Sign in](https://raw.githubusercontent.com/yosephfernando/mockaplication/master/screenshots/signin.PNG)
+![Sign up](https://raw.githubusercontent.com/yosephfernando/mockaplication/master/screenshots/signup.PNG)
